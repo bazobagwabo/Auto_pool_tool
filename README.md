@@ -41,3 +41,7 @@ If you can't figure out how this works, don't ask me.
 
 have fun spending pools.
 
+		Changelog
+		
+V1.1 - Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
+
