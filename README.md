@@ -41,6 +41,8 @@ If you can't figure out how this works, don't ask me.
 
 have fun spending pools.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G9cry1QtmkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 		Changelog
 		
 V1.1 - Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
