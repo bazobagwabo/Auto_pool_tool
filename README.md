@@ -44,6 +44,11 @@ have fun spending pools.
 https://www.youtube.com/embed/G9cry1QtmkE
 
 		Changelog
-		
+
+V1.2 - Added failsafe for adventure mode (in case account gets reset to campaign mode)
+     - Added failsafe for armory, it will force equip even if some gems or gear is missing
+       (better to do shitty runs, than to not do runs at all)
+     - changed some timings when changing character, longer sleep timers in mennu
+     
 V1.1 - Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
 
