@@ -31,6 +31,8 @@ The tool will cycle through 12 characters, then continue to do pools on your 12t
 
 Make sure you have available stash space in the 4th stash slot (also changable in the AHK)
 
+Make sure {space} is bound to clear all UI elements and 'k' is not bound to anything in-game
+
 Make sure you have saved the build you use for on the first armory tab on all characters (also changable in the AHK)
 
 Make sure your skills are set up the same way on the action bar if you're using the F6 version
@@ -45,10 +47,11 @@ https://www.youtube.com/embed/G9cry1QtmkE
 
 		Changelog
 
-V1.2	- Added failsafe for adventure mode (in case account gets reset to campaign mode)
-	- Added failsafe for armory, it will force equip even if some gems or gear is missing
-	(better to do shitty runs, than to not do runs at all)
-	- changed some timings when changing character, longer sleep timers in mennu
+V1.2:
+Added failsafe for armory, it will force equip saved armory
+Added failsafe for adventure mode
+Edited some timings, longer sleep in menu
      
-V1.1 - Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
+V1.1
+Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
 
