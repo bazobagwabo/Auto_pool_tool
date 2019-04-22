@@ -1,7 +1,6 @@
 # Auto_pool_tool
-automatically pools up your characters through rifts, at the moment set up to pool up 12 characters (can edit this in the AHK).
 
-		AutoPoolTool F7 version (stops bot with F7 and sends {enter} to ros-bot window to restart the bot
+		AutoPoolTool F7 version (stops bot with F7 and sends {enter} to ros-bot window to restart the bot)
 
 - Put RBAssistSettings.ini inside your RBAssist folder
 - Start RBAssist
@@ -23,9 +22,10 @@ automatically pools up your characters through rifts, at the moment set up to po
 
 
 
+
 		How it works
 
-Tool will pool your characters through rifts while botting, swapping character every 13 rifts (changable in the AHK)
+This tool will pool your characters through rifts while botting, swapping character every 13 rifts (changable in the AHK)
 Start the tool with the character on top of your character list, it will go down your character list 1 by 1.
 The tool will cycle through 12 characters, then continue to do pools on your 12th character indefenetely.
 
@@ -46,10 +46,12 @@ https://www.youtube.com/embed/G9cry1QtmkE
 		Changelog
 
 V1.2:
-Added failsafe for armory, it will force equip saved armory
-Added failsafe for adventure mode
-Edited some timings, longer sleep in menu
+- Added failsafe for armory, it will force equip saved armory
+- Added failsafe for adventure mode
+- Edited some timings, longer sleep in menu
+
      
 V1.1
-Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
+- Fixed error in F6 AHK (it wouldn't resume after logging 3rd character)
+
 
