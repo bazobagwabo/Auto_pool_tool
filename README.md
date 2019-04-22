@@ -35,8 +35,6 @@ Make sure {space} is bound to clear all UI elements and 'k' is not bound to anyt
 
 Make sure you have saved the build you use for keys/rifts on the first armory tab on all characters (also changable in the AHK)
 
-Make sure your skills are set up the same way on the action bar if you're using the F6 version
-
 Run diablo in windowed mode, resized to smallest possible window (I only tested the AHK in 1080p desktop resolution, dont know if that matters).
 
 If you can't figure out how this works, don't ask me.
