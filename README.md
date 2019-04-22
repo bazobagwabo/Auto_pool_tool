@@ -33,7 +33,7 @@ Make sure you have available stash space in the 4th stash slot (also changable i
 
 Make sure {space} is bound to clear all UI elements and 'k' is not bound to anything in-game
 
-Make sure you have saved the build you use for on the first armory tab on all characters (also changable in the AHK)
+Make sure you have saved the build you use for keys/rifts on the first armory tab on all characters (also changable in the AHK)
 
 Make sure your skills are set up the same way on the action bar if you're using the F6 version
 
