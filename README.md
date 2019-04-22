@@ -25,7 +25,7 @@ automatically pools up your characters through rifts, at the moment set up to po
 
 		How it works
 
-Tool will pool your characters through rifts while botting, swapping character every 15 rifts (changable in the AHK)
+Tool will pool your characters through rifts while botting, swapping character every 13 rifts (changable in the AHK)
 Start the tool with the character on top of your character list, it will go down your character list 1 by 1.
 The tool will cycle through 12 characters, then continue to do pools on your 12th character indefenetely.
 
