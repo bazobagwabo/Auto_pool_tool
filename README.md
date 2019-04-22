@@ -1,19 +1,19 @@
 # Auto_pool_tool
 automatically pools up your characters through rifts, at the moment set up to pool up 12 characters (can edit this in the AHK).
 
-		AutoPoolTool F7 version
+		AutoPoolTool F7 version (stops bot with F7 and sends {enter} to ros-bot window to restart the bot
 
 - Put RBAssistSettings.ini inside your RBAssist folder
 - Start RBAssist
 - Start Ros-Bot (MANUALLY)
 - Start Auto_Pool.ahk in administrator mode
-- while Ros-Bot is active press ctrl-o
+- while Ros-Bot is active press ctrl-o and make sure 'Start botting !' button is highlighted
 - start monitoring in RBAssist
 
 
 
 
-		AutoPoolTool F6 version
+		AutoPoolTool F6 version (simply pause and resumes bot)
 
 - Put RBAssistSettings.ini inside your RBAssist folder
 - Start RBAssist
