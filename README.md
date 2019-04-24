@@ -41,7 +41,7 @@ If you can't figure out how this works, don't ask me.
 
 have fun spending pools.
 
-https://www.youtube.com/embed/G9cry1QtmkE
+https://www.youtube.com/watch?v=G9cry1QtmkE
 
 		Changelog
 
