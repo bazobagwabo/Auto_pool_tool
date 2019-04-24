@@ -12,7 +12,7 @@
 
 
 
-		AutoPoolTool F6 version (simply pause and resumes bot)
+		AutoPoolTool F6 version (simply pauses and resumes bot)
 
 - Put RBAssistSettings.ini inside your RBAssist folder
 - Start RBAssist
