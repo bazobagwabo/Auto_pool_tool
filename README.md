@@ -45,6 +45,10 @@ https://www.youtube.com/embed/G9cry1QtmkE
 
 		Changelog
 
+V1.4:
+- Added easier way to edit how many character swaps the AHK will execute
+- Added easier way to edit how many rifts you want to run per character
+
 V1.2:
 - Added failsafe for armory, it will force equip saved armory
 - Added failsafe for adventure mode
