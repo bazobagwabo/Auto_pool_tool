@@ -41,6 +41,8 @@ If you can't figure out how this works, don't ask me.
 
 have fun spending pools.
 
+
+F6 version in action
 https://www.youtube.com/watch?v=G9cry1QtmkE
 
 		Changelog
