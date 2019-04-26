@@ -1,13 +1,16 @@
 # Auto_pool_tool
 
-		AutoPoolTool F7 version (REMOVED AS OF v1.5)
+		AutoPoolTool pixel version
 
 - Put RBAssistSettings.ini inside your RBAssist folder
+- Make a fresh turbohud installation and put 'gjuz' folder in it (I don't reccomend using this thud for anything else than auto_pool_tool
+- Right-click turbohud.exe and 
+- edit the AHK (you need to change the path to turbohud so AHK can launch thud as a failsafe)
 - Start RBAssist
 - Start Ros-Bot (MANUALLY)
 - Start Auto_Pool.ahk in administrator mode
-- while Ros-Bot is active press ctrl-o and make sure 'Start botting !' button is highlighted
 - start monitoring in RBAssist
+This version will scan for > 9 pools, and then swap character. This is far more efficient than the other version.
 
 
 
