@@ -10,7 +10,8 @@
 - Start Ros-Bot (MANUALLY)
 - Start Auto_Pool.ahk in administrator mode
 - start monitoring in RBAssist
-This version will scan for > 9 pools, and then swap character. This is far more efficient than the other version.
+- 
+- This version will scan for > 9 pools, and then swap character. This is far more efficient than the other version.
 
 
 
