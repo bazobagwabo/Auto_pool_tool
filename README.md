@@ -51,6 +51,7 @@ F6 version in action: https://www.youtube.com/watch?v=G9cry1QtmkE
 v1.5
 - Added pixel version that scans for pixel from turbohud (only shows when you have more than 9 pools)
 - Read the AHK and you will understand, if not.. unlucky
+- bugfixes
 
 v1.4:
 - Added easier way to edit how many character swaps the AHK will execute
