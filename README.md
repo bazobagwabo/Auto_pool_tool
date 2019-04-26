@@ -3,7 +3,7 @@
 		AutoPoolTool pixel version
 
 - Put RBAssistSettings.ini inside your RBAssist folder
-- Make a fresh turbohud installation and put 'gjuz' folder in it (I don't reccomend using this thud for anything else than auto_pool_tool
+- Make a fresh turbohud installation and put 'gjuz' folder in the plugin folder (I don't reccomend using this thud for anything else than auto_pool_tool
 - Right-click turbohud.exe and 
 - edit the AHK (you need to change the path to turbohud so AHK can launch thud as a failsafe)
 - Start RBAssist
