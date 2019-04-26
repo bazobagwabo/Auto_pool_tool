@@ -1,6 +1,6 @@
 # Auto_pool_tool
 
-		AutoPoolTool F7 version (stops bot with F7 and sends {enter} to ros-bot window to restart the bot)
+		AutoPoolTool F7 version (REMOVED AS OF v1.5)
 
 - Put RBAssistSettings.ini inside your RBAssist folder
 - Start RBAssist
@@ -31,7 +31,7 @@ The tool will cycle through a maximum of 12 characters, then continue to do rift
 
 Make sure you have available stash space in the 4th stash slot (also changable in the AHK)
 
-Make sure {space} is bound to clear all UI elements and 'k' is not bound to anything in-game
+Make sure {space} is bound to clear all UI elements and 'k' and 'j' is not bound to anything in-game
 
 Make sure you have saved the build you use for keys/rifts on the first armory tab on all characters
 
@@ -45,12 +45,15 @@ have fun spending pools.
 F6 version in action: https://www.youtube.com/watch?v=G9cry1QtmkE
 
 		Changelog
+v1.5
+- Added pixel version that scans for pixel from turbohud (only shows when you have more than 9 pools)
+- Read the AHK and you will understand, if not.. unlucky
 
-V1.4:
+v1.4:
 - Added easier way to edit how many character swaps the AHK will execute
 - Added easier way to edit how many rifts you want to run per character
 
-V1.2:
+v1.2:
 - Added failsafe for armory, it will force equip saved armory
 - Added failsafe for adventure mode
 - Edited some timings, longer sleep in menu
