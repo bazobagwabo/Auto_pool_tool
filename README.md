@@ -34,7 +34,7 @@ The tool will cycle through a maximum of 12 characters, then continue to do rift
 
 Make sure you have available stash space in the 4th stash slot (also changable in the AHK)
 
-Make sure {space} is bound to clear all UI elements and 'k' and 'j' is not bound to anything in-game
+Make sure {space} is bound to clear all UI elements and 'k' + 'j' is not bound to anything in-game
 
 Make sure you have saved the build you use for keys/rifts on the first armory tab on all characters
 
