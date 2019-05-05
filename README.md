@@ -48,6 +48,11 @@ have fun spending pools.
 F6 version in action: https://www.youtube.com/watch?v=G9cry1QtmkE
 
 		Changelog
+
+v1.6
+- Added pop-up window that asks you how many character swaps you want to do (the AHK will only change characters up to 11 times)
+- Added instructions when launching AHK
+
 v1.5
 - Added pixel version that scans for pixel from turbohud (only shows when you have more than 9 pools)
 - Read the AHK and you will understand, if not.. unlucky
